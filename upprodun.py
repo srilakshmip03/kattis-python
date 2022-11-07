@@ -26,3 +26,5 @@ for i in range(int(times_min)):
     for i in range(int(min_stars)):
         print("*", end = "")
     print();
+
+# not finished, getting 21/32
